@@ -1,0 +1,53 @@
+[
+    {
+      "Id": 1,
+      "title": "How to get your first job as a self-taught programmer",
+      "cover": "https://picsum.photos/200/300",
+      "author": "John Doe",
+      "author_img": "https://picsum.photos/100",
+      "posted_data": "2023-11-23",
+      "reading_time": 5,
+      "hastag": "#technology"
+    },
+    {
+      "Id": 2,
+      "title": "get your first job  js",
+      "cover": "https://picsum.photos/200/301",
+      "author": "Jane Doe",
+      "author_img": "https://picsum.photos/101",
+      "posted_data": "2023-11-22",
+      "reading_time": 10,
+      "hastag": "#travel"
+    },
+    {
+      "Id": 3,
+      "title": "How to get your first job as C++",
+      "cover": "https://picsum.photos/200/302",
+      "author": "Peter Jones",
+      "author_img": "https://picsum.photos/102",
+      "posted_data": "2023-11-21",
+      "reading_time": 15,
+      "hastag": "#food"
+    },
+    {
+      "Id": 4,
+      "title": "How to get your first job C#",
+      "cover": "https://picsum.photos/200/303",
+      "author": "Mary Smith",
+      "author_img": "https://picsum.photos/103",
+      "posted_data": "2023-11-20",
+      "reading_time": 20,
+      "hastag": "#lifestyle"
+    },
+    {
+      "Id": 5,
+      "title": "How to get your first job as a react",
+      "cover": "https://picsum.photos/200/304",
+      "author": "David Brown",
+      "author_img": "https://picsum.photos/104",
+      "posted_data": "2023-11-19",
+      "reading_time": 25,
+      "hastag": "#photography"
+    }
+  ]
+  
